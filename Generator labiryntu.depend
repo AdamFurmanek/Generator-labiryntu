@@ -1,0 +1,9 @@
+# depslib dependency file v1.0
+1573920119 source:d:\programowanie\c++\generator labiryntu\main.cpp
+	<iostream>
+	<list>
+	<cstdlib>
+	<cstdio>
+	<windows.h>
+	<time.h>
+
